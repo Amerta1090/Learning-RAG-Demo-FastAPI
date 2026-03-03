@@ -67,7 +67,3 @@ docker run -p 6333:6333 qdrant/qdrant
 If Qdrant is unavailable, the app automatically falls back to in-memory storage.
 
 ---
-
-## Running Tests
-
-pytest
